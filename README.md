@@ -49,10 +49,10 @@ This project analyzes survey data on remote work experiences collected in 2020 a
 ---
 
 ## Dashboard
-The interactive story in Tableau includes four main tabs:
+The interactive story in PowerBI includes four main tabs:
 1. **Remote Work Patterns** – visualizing mismatch and actual vs preferred remote work.
 2. **Productivity Insights** – links between mismatch, barriers, and productivity.
-3. **Barriers Overview** – detailed view of top and least barriers for remote work.
+3. **Demograpics overview**
 4. **Policy & Support** – showing organizational support, autonomy, and potential improvements.
 
 ---
